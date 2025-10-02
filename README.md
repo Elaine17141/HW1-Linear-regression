@@ -1,6 +1,4 @@
-# HW1-Linear-regression
-
- CRISP-DM Steps for Linear Regression
+# CRISP-DM Steps for Linear Regression
 
 ## 1. Business Understanding
 
